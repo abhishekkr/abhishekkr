@@ -16,6 +16,9 @@
 <a href="https://www.youtube.com/channel/UCrhgJerqHwLG9Rm7UtKAwqg">
   <img align="left" alt="Tech Only Tube" width="22px" src="https://raw.githubusercontent.com/abhishekkr/abhishekkr/master/assets/ico/youtube.svg" />
 </a>
+<a href="https://open.spotify.com/artist/4mEMwQE1uqLyjUifuFRIPL">
+  <img align="left" alt="AbhishekKr's Spotify" width="22px" src="https://raw.githubusercontent.com/abhishekkr/abhishekkr/master/assets/ico/spotify.svg" />
+</a>
 <a href="https://github.com/abhishekkr/">
   <img align="left" alt="AbhishekKr's Github" width="22px" src="https://raw.githubusercontent.com/abhishekkr/abhishekkr/master/assets/ico/github.svg" />
 </a>
