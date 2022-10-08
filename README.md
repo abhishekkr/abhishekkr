@@ -33,12 +33,16 @@ Love learning interesting new technologies, started managing notes on interestin
 
 Some of the languages I've used in decent measures are <a href="https://github.com/abhishekkr?tab=repositories&q=&type=&language=go&sort="><img alt="Go" width="20px" src="https://raw.githubusercontent.com/abhishekkr/abhishekkr/master/assets/ico/dev-golang.svg"/></a>, <a href="https://github.com/abhishekkr?tab=repositories&q=&type=&language=python&sort="><img alt="Python" width="20px" src="https://raw.githubusercontent.com/abhishekkr/abhishekkr/master/assets/ico/dev-python.svg"/></a>, <a href="https://github.com/abhishekkr?tab=repositories&q=&type=&language=elixir&sort="><img alt="Elixir" width="18px" src="https://raw.githubusercontent.com/abhishekkr/abhishekkr/master/assets/ico/dev-elixir.svg"/></a>, <a href="https://github.com/abhishekkr?tab=repositories&q=&type=&language=shell&sort="><img alt="Bash" width="20px" src="https://raw.githubusercontent.com/abhishekkr/abhishekkr/master/assets/ico/dev-bash.svg"/></a> and <a href="https://github.com/abhishekkr?tab=repositories&q=&type=&language=ruby&sort="><img alt="Ruby" width="18px" src="https://raw.githubusercontent.com/abhishekkr/abhishekkr/master/assets/ico/dev-ruby.svg"/></a>.
 
+I work on OSS projects either for my own usage or to try out an interesting tech/use-case, for the love of creating. No noble cause or deep philosophy.
 I have specific interest in Automation Engineering, System Utilities, Security, Datastores, AI, FinTech and Web Performance.
 
 ---
 
 📈 my github stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhishekkr&show_icons=true&theme=gotham" alt="abhishekkr" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekkr&show_icons=true&theme=gotham" alt="abhishekkr github activity" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekkr&layout=compact&hide=javascript,html,vim%20script,visual%20basic" alt="abhishekkr top languages" />
+</p>
 
 ---
