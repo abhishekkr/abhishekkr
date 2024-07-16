@@ -13,7 +13,7 @@
 <a href="https://www.youtube.com/user/1ABK/videos">
   <img align="left" alt="Personal Tube" width="22px" src="https://raw.githubusercontent.com/abhishekkr/abhishekkr/master/assets/ico/youtube-1ABK.svg" />
 </a>
-<a href="https://www.youtube.com/channel/UCrhgJerqHwLG9Rm7UtKAwqg">
+<a href="https://www.youtube.com/@design.code.evolve">
   <img align="left" alt="Tech Only Tube" width="22px" src="https://raw.githubusercontent.com/abhishekkr/abhishekkr/master/assets/ico/youtube.svg" />
 </a>
 <a href="https://open.spotify.com/artist/4mEMwQE1uqLyjUifuFRIPL">
@@ -35,6 +35,8 @@ Some of the languages I've used in decent measures are <a href="https://github.c
 
 I work on OSS projects either for my own usage or to try out an interesting tech/use-case, for the love of creating. No noble cause or deep philosophy.
 I have specific interest in Automation Engineering, System Utilities, Security, Datastores, AI, FinTech and Web Performance.
+
+One my recent projects have been [LuDe](https://lude.page/); a webapp using AI & procedural logic to generate YT shorts like Videos from uploaded Audio.
 
 ---
 
